@@ -1,0 +1,12 @@
+{
+    "image2": {
+        "data": "hwQRABYAAAAAAADw//8PAAAAAAAAAAAvIiLyAAAAAAAAAPAiIiIi/wAAAAAAAC8iIiIiIg8AAAAA8C8iIi8iIvIPAAAA8C8i8i8iIiLyAAAA8C8i/y8iIiLyAAAA8C/y/yLy/y/yAAAA8C8iIvLy///yAAAA8C/y/yLy/y/yAAAA8C8i/y8iIiLyAAAA8C8i8i8iIiLyAAAA8C8iIi8iIvIPAAAAAC8iIiIiIg8AAAAAAPAiIiIi/wAAAAAAAAAvIiLyAAAAAAAAAADw////AAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ghost Face"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
